@@ -1,14 +1,14 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# My CV as a site
 
+Welcome!
 
-Hi there! Welcome to AWS Cloud9!
+As part of my course I've put together a simple little interactive CV of sorts.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Most data is factual, aside from some of the contact info, which is mostly there as placeholder text.
 
-Happy coding!
+Similarly, the social media icons are currently just for show, I'm present on less than half of them, and I'd show even fewer to prospective employers.
+They're not outrageous or anything, but they're also just not professional.
+
+The contact form also goes nowhere, so if you need to contact me send me a message on GitHub.
+
+Nearly all of the styles and formatting are taken directly from the course, so I'll likely return to this later to customize the project and make it more my own.
